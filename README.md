@@ -1,2 +1,11 @@
 # weis
 What Even Is Security
+
+Or WEIS for short, is a project I will be working on to improve the security of my OS
+
+This is to prevent someone just coming in to my room, sitting on my chair, and using my computer as they please without my permission
+
+I will be making this for my computers on windows and linux as a personal project for fun and not any real reason
+
+## what the hell i dont trust you
+Fair, I dont expect you to trust some guy on the internet what is a good security call, but I will be posting my source code so you can check everything you like to make sure its up to your standards before using it :)
