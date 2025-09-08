@@ -12,6 +12,7 @@ I will be making this for my computers on windows and linux as a personal projec
 ## docs
 
 Check the docs for more information!
+
 Visit https://github.com/leejkc/weis/wiki
 
 ## what the hell i dont trust you
