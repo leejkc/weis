@@ -3,6 +3,8 @@ What Even Is Security
 
 Or WEIS for short, is a project I will be working on to improve the security of my OS
 
+This is for any old usb stick to be the center of your security, making your new issue not losing the physical key instead of remembering your password.
+
 This is to prevent someone just coming in to my room, sitting on my chair, and using my computer as they please without my permission
 
 I will be making this for my computers on windows and linux as a personal project for fun and not any real reason
