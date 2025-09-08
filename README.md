@@ -13,7 +13,7 @@ I will be making this for my computers on windows and linux as a personal projec
 
 Check the docs for more information!
 
-Visit https://github.com/leejkc/weis/wiki
+Visit [docs](https://github.com/leejkc/weis/wiki)
 
 ## what the hell i dont trust you
 Fair, I dont expect you to trust some guy on the internet what is a good security call, but I will be posting my source code so you can check everything you like to make sure its up to your standards before using it :)
