@@ -1,7 +1,7 @@
 # weis
 What Even Is Security
 
-Or WEIS for short, is a project I will be working on to improve the security of my OS
+Or WEIS for short, is a project I will be working on to improve the security of my computer
 
 This is for any old usb stick to be the center of your security, making your new issue not losing the physical key instead of remembering your password.
 
