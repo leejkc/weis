@@ -1,4 +1,4 @@
-# weis
+# weis (WIP)
 What Even Is Security
 
 Or WEIS for short, is a project I will be working on to improve the security of my computer
